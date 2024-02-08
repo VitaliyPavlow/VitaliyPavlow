@@ -1,6 +1,6 @@
 ### Hi there 👋
 ⚡ Fun fact: I`m python developer 😄
-📫 How to reach me: [мой телеграм](https://t.me/VitaliyPavlov)
+📫 How to reach me: [telegram](https://t.me/VitaliyPavlov) [mail](mailto:pvagbox@gmail.com)
 
 <!--
 **VitaliyPavlow/VitaliyPavlow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
